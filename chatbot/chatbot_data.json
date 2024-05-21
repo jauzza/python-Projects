@@ -1,0 +1,116 @@
+{
+    "conversations": [
+        {
+            "user_input": "hello",
+            "bot_response": "Hello!"
+        },
+        {
+            "user_input": "how are you",
+            "bot_response": "I'm sorry, I don't understand that."
+        },
+        {
+            "user_input": "how are you ?",
+            "bot_response": "I'm sorry, I don't understand that."
+        },
+        {
+            "user_input": "how are you?",
+            "bot_response": "I'm doing well, thank you for asking!"
+        },
+        {
+            "user_input": "hello",
+            "bot_response": "Hello!"
+        },
+        {
+            "user_input": "hello",
+            "bot_response": "Hi there!"
+        },
+        {
+            "user_input": "how are you",
+            "bot_response": "I'm sorry, I don't understand that."
+        },
+        {
+            "user_input": "im good thanks",
+            "bot_response": "I'm sorry, I don't understand that."
+        },
+        {
+            "user_input": "hello",
+            "bot_response": "Hi there!"
+        },
+        {
+            "user_input": "how are you?",
+            "bot_response": "I'm doing well, thank you for asking!"
+        },
+        {
+            "user_input": "weather",
+            "bot_response": "You might want to check a weather website for that."
+        },
+        {
+            "user_input": "weather",
+            "bot_response": "You might want to check a weather website for that."
+        },
+        {
+            "user_input": "hello",
+            "bot_response": "Hello!"
+        },
+        {
+            "user_input": "how are you?",
+            "bot_response": "I'm just a computer program, so I don't have feelings."
+        },
+        {
+            "user_input": "what are you doing now?",
+            "bot_response": "I'm sorry, I don't understand that."
+        },
+        {
+            "user_input": "what are you doing now?",
+            "bot_response": "im talkig and learning new responses from you !"
+        },
+        {
+            "user_input": "weather",
+            "bot_response": "I'm sorry, I can't provide weather information at the moment."
+        },
+        {
+            "user_input": "how are you learning new inputs?",
+            "bot_response": "I'm sorry, I don't understand that."
+        },
+        {
+            "user_input": "how are you learning new inputs?",
+            "bot_response": "every new input that i get the user can type how it wants me to respond in the future !"
+        },
+        {
+            "user_input": "hello",
+            "bot_response": "Hi there!"
+        }
+    ],
+    "responses": {
+        "hello": [
+            "Hi there!",
+            "Hello!",
+            "Hey!"
+        ],
+        "how are you?": [
+            "I'm just a computer program, so I don't have feelings.",
+            "I'm doing well, thank you for asking!"
+        ],
+        "goodbye": [
+            "Farewell!",
+            "Goodbye!",
+            "See you later!"
+        ],
+        "weather": [
+            "I'm sorry, I can't provide weather information at the moment.",
+            "You might want to check a weather website for that."
+        ],
+        "how are you": [
+            "im good thanks"
+        ],
+        "im good thanks": [
+            "me to"
+        ],
+        "what are you doing now?": [
+            "im talkig and learning new responses from you !"
+        ],
+        "how are you learning new inputs?": [
+            "every new input that i get the user can type how it wants me to respond in the future !"
+        ]
+    }
+}
